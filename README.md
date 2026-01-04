@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @moosa-raheel
-- 👀 I’m interested in Programming and building appliactions
-- 🌱 I’m currently learning Django
+👋 Hi, I'm Moosa
 
-<!---
-moosa-raheel/moosa-raheel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BSAI student & Junior Software Developer  
+👨‍🏫 Former Programming Instructor (3+ years)
+
+💻 Skills:
+- Python, Django
+- Web Development
+- Git & Linux
+
+🚀 Currently looking for Junior Developer / Trainee roles
